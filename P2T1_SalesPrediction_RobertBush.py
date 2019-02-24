@@ -3,11 +3,6 @@
 # CTI-110 P2T1 - Sales Prediction
 # Robert Bush
 #
-print('Robert Bush')
-print('106 Cascade Circle')
-print('Dunn, NC 28334')
-print('704-275-1233')
-print('Information Technology')
 
 # Amount of total sales
 total_sales = float(input('What is the total of sales:'))
