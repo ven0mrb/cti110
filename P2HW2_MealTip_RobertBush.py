@@ -10,9 +10,13 @@
 # 15%, 18%, 20%
 
 # Enter the meal total purchased
+# To put cost of the meal total without tip when asking for meal cost
 meal = float(input('Enter the charge for food:'))
 
-# Tips
+# Show the meal charge
+print('Meal total is:', meal)
+
+# Tips, 15, 18 and 20- List of the tip charge with the meal by the %
 tip1 = 0.15*meal
 tip2 = 0.18*meal
 tip3 = 0.20*meal
